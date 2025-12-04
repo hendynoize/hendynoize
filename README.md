@@ -7,24 +7,24 @@ Saat mengecek domain ini, saya kaget karena ternyata masih available. Dan di sit
 
 Blog ini kini saya hidupkan kembali dengan fokus pada Digital Lifestyle:
 
-Tips memaksimalkan aplikasi dan perangkat digital
+✅Tips memaksimalkan aplikasi dan perangkat digital
 
-Rekomendasi gadget yang fungsional (bukan sekadar ikut tren)
+✅Rekomendasi gadget yang fungsional (bukan sekadar ikut tren)
 
-Cara kerja lebih produktif di era serba online
+✅Cara kerja lebih produktif di era serba online
 
-Tren teknologi yang relevan untuk kehidupan sehari-hari
+✅Tren teknologi yang relevan untuk kehidupan sehari-hari
 
-Refleksi tentang bagaimana teknologi membentuk cara kita menjalani hidup
+✅Refleksi tentang bagaimana teknologi membentuk cara kita menjalani hidup
 
 Singkatnya, ini adalah ruang untuk belajar, berbagi insight, dan bertumbuh bersama di dunia yang semakin terhubung.
 
 Terima kasih sudah mampir.
 Semoga ada sesuatu di sini yang bisa menginspirasi atau bermanfaat dalam perjalanan digitalmu.
 
-Salam,
-Hendy Black
+Salam  
+**Hendy Black**
 
-# Blog posts
+# 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
