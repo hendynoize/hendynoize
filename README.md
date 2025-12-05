@@ -28,3 +28,5 @@ Salam
 # 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+_This README was created with ❤️ by [Hendy Black](https://www/facebook.com/hendynoizedotnet)_
