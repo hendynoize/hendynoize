@@ -1,37 +1,30 @@
-name: Latest content I make workflow
+name: Update README on new WordPress post
+
 on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+  repository_dispatch:
+    types: [wp_new_post]
 
 jobs:
-  update-readme-with-blog:
-    name: Update README with latest blog posts (Markdown thumbnails)
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
-      - name: Fetch latest WordPress posts with thumbnails (Markdown)
+      - name: Append new post to README
         run: |
-          curl -s "https://hendynoize.net/wp-json/wp/v2/posts?per_page=5&_embed" | \
-          jq -r '.[] | 
-            .title.rendered + "\n" +
-            "[![img](" + 
-            (.featured_media_url // ._embedded["wp:featuredmedia"][0].source_url // "https://via.placeholder.com/300x150") + 
-            ")](" + .link + ")\n"' | \
-          sed 's/<[^>]*>//g' > blog_posts.md
+          TITLE="${{ github.event.client_payload.post_title }}"
+          URL="${{ github.event.client_payload.post_url }}"
+          IMG="${{ github.event.client_payload.thumbnail }}"
 
-      - name: Inject into README
-        run: |
-          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/d' README.md
-          echo "<!-- BLOG-POST-LIST:START -->" >> README.md
-          cat blog_posts.md >> README.md
-          echo "<!-- BLOG-POST-LIST:END -->" >> README.md
+          # Buat entri Markdown
+          ENTRY="- [![img]($IMG)]($URL)  \n  **$TITLE**"
+          # Sisipkan setelah marker
+          sed -i '/<!-- BLOG-POST-LIST:START -->/a\'"$ENTRY" README.md
 
-      - name: Commit changes
+      - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update latest blog posts with Markdown thumbnails"
+          git commit -m "Add new post: ${{ github.event.client_payload.post_title }}"
           git push
