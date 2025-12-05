@@ -1,30 +1,16 @@
-name: Update README on new WordPress post
-
-on:
-  repository_dispatch:
-    types: [wp_new_post]
+name: Update readme with blog posts
+on: 
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 0 30 * *
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Append new post to README
-        run: |
-          TITLE="${{ github.event.client_payload.post_title }}"
-          URL="${{ github.event.client_payload.post_url }}"
-          IMG="${{ github.event.client_payload.thumbnail }}"
-
-          # Buat entri Markdown
-          ENTRY="- [![img]($IMG)]($URL)  \n  **$TITLE**"
-          # Sisipkan setelah marker
-          sed -i '/<!-- BLOG-POST-LIST:START -->/a\'"$ENTRY" README.md
-
-      - name: Commit & push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Add new post: ${{ github.event.client_payload.post_title }}"
-          git push
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://hendynoize.net/rss/
+          readme-section: feed
+          max: 10 
+          template: "### [{{ title }}]({{ link }}) \n*{{ description }}*\n\n"
