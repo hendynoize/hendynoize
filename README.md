@@ -25,7 +25,7 @@ Semoga ada sesuatu di sini yang bisa menginspirasi atau bermanfaat dalam perjala
 Salam  
 **Hendy Black**
 
-# 📝 Blog posts
+### 📝 Blog posts
 <!--START_SECTION:feed-->
 <!--END_SECTION:feed-->
 
