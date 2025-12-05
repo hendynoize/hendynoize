@@ -1,19 +1,33 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 0 * * *' # Runs once a day at 00:00 UTC
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README with latest blog posts (with thumbnails)
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+
+      - name: Pull in posts with thumbnails
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed,https://hendynoize.net/feed/"
+          feed_list: "https://hendynoize.net/feed/"
+          max_post_count: 6
+          template: |
+            <div style="display:flex; gap:16px; flex-wrap:wrap;">
+              $posts
+            </div>
+
+          post_template: |
+            <a href="$url" style="text-decoration:none; width:160px; display:block;">
+              <img src="$thumbnail" alt="$title" style="width:100%; border-radius:10px;">
+              <div style="margin-top:6px; font-weight:bold; font-size:14px; color:#333;">
+                $title
+              </div>
+            </a>
