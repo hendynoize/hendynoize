@@ -1,8 +1,10 @@
 name: Latest blog post workflow
+
 on:
-  schedule:
-    - cron: '0 0 * * *'
+  repository_dispatch:
+    types: [wp_post_published]
   workflow_dispatch:
+
 permissions:
   contents: write
 
