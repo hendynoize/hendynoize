@@ -1,35 +1,37 @@
-name: Latest blog post workflow
-
+name: Latest content I make workflow
 on:
-  repository_dispatch:
-    types: [wp_post_published]
+  schedule:
+    - cron: '0 0 * * *'
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   update-readme-with-blog:
-    name: Update README with latest blog posts (with thumbnails)
+    name: Update README with latest blog posts (Markdown thumbnails)
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v3
 
-      - name: Pull in posts with thumbnails
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://hendynoize.net/feed/"
-          max_post_count: 6
-          template: |
-            <div style="display:flex; gap:16px; flex-wrap:wrap;">
-              $posts
-            </div>
+      - name: Fetch latest WordPress posts with thumbnails (Markdown)
+        run: |
+          curl -s "https://hendynoize.net/wp-json/wp/v2/posts?per_page=5&_embed" | \
+          jq -r '.[] | 
+            .title.rendered + "\n" +
+            "[![img](" + 
+            (.featured_media_url // ._embedded["wp:featuredmedia"][0].source_url // "https://via.placeholder.com/300x150") + 
+            ")](" + .link + ")\n"' | \
+          sed 's/<[^>]*>//g' > blog_posts.md
 
-          post_template: |
-            <a href="$url" style="text-decoration:none; width:160px; display:block;">
-              <img src="$thumbnail" alt="$title" style="width:100%; border-radius:10px;">
-              <div style="margin-top:6px; font-weight:bold; font-size:14px; color:#333;">
-                $title
-              </div>
-            </a>
+      - name: Inject into README
+        run: |
+          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/d' README.md
+          echo "<!-- BLOG-POST-LIST:START -->" >> README.md
+          cat blog_posts.md >> README.md
+          echo "<!-- BLOG-POST-LIST:END -->" >> README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update latest blog posts with Markdown thumbnails"
+          git push
