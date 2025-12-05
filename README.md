@@ -1,5 +1,6 @@
 # Hi! Saya Hendy. 👋🏻
-Halo, saya Hendy Black — praktisi dunia digital sejak era warnet masih jadi tempat nongkrong favorit. Dulu blog ini aktif membahas berbagai topik seputar teknologi, eksplorasi software, dan kehidupan internet awal. Namun sempat vakum cukup lama karena saya fokus pada proyek dan kehidupan offline, sampai domain dan hosting pun ikut terlupakan.
+Halo, saya **Hendy Black**, saya praktisi [dunia digital](https://hendynoize.net)
+ sejak era warnet masih jadi tempat nongkrong favorit. Dulu blog ini aktif membahas berbagai topik seputar teknologi, eksplorasi software, dan kehidupan internet awal. Namun sempat vakum cukup lama karena saya fokus pada proyek dan kehidupan offline, sampai domain dan hosting pun ikut terlupakan.
 
 Beberapa waktu terakhir, saya melihat bagaimana gaya hidup digital berkembang begitu cepat: dari cara kita bekerja, belajar, berbelanja, sampai cara kita bersosialisasi. Teknologi bukan lagi sekadar alat, tapi bagian dari keseharian. Dari sinilah saya merasa panggilan itu datang lagi.
 
