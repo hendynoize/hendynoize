@@ -26,7 +26,7 @@ Salam
 **Hendy Black**
 
 # 📝 Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
 
 _This README was created with ❤️ by [Hendy Black](https://www/facebook.com/hendynoizedotnet)_
