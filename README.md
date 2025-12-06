@@ -25,10 +25,15 @@ Semoga ada sesuatu di sini yang bisa menginspirasi atau bermanfaat dalam perjala
 Salam  
 **Hendy Black**
 
-### 📝 Blog posts
-## [Panduan Tools AI Millennial & Gen Z: Hidup Digital Produktif](https://hendynoize.net/panduan-tools-ai-millennial-gen-z-hidup-digital-produktif/)
+## 📝 Blog posts
+
+### [Panduan Tools AI Millennial & Gen Z: Hidup Digital Produktif](https://hendynoize.net/panduan-tools-ai-millennial-gen-z-hidup-digital-produktif/)
 _AI tools untuk Millennial & Gen Z memudahkan produktivitas, kreativitas, dan gaya hidup digital. Pelajari cara pakainya sekarang._
-<hr/>
-## [Fintech Revolution 2025: Panduan Uang Digital Cerdas](https://hendynoize.net/fintech-revolution-2025-panduan-uang-digital-cerdas/))
+
+---
+
+### [Fintech Revolution 2025: Panduan Uang Digital Cerdas](https://hendynoize.net/fintech-revolution-2025-panduan-uang-digital-cerdas/)
 _Fintech Revolution 2025 membantu Millennials & Gen Z mengelola uang digital dengan aman, cerdas, dan simpel lewat panduan praktis era gaya hidup digital._
-<hr/>
+
+---
+
