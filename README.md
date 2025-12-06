@@ -26,7 +26,6 @@ Salam
 **Hendy Black**
 
 ### 📝 Blog posts
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
+## [Panduan Tools AI Millennial & Gen Z: Hidup Digital Produktif](https://hendynoize.net/panduan-tools-ai-millennial-gen-z-hidup-digital-produktif/)
 
 _This README was created with ❤️ by [Hendy Black](https://www/facebook.com/hendynoizedotnet)_
