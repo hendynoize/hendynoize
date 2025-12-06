@@ -28,5 +28,4 @@ Salam
 ### 📝 Blog posts
 ## [Panduan Tools AI Millennial & Gen Z: Hidup Digital Produktif](https://hendynoize.net/panduan-tools-ai-millennial-gen-z-hidup-digital-produktif/)
 _AI tools untuk Millennial & Gen Z memudahkan produktivitas, kreativitas, dan gaya hidup digital. Pelajari cara pakainya sekarang._
-
-_This README was created with ❤️ by [Hendy Black](https://www/facebook.com/hendynoizedotnet)_
+<hr/>
