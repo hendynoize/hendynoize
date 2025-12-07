@@ -39,7 +39,7 @@ Salam
 
 ---
 
-### **[Keamanan Digital 2025 Untuk Pengguna Modern]([https://hendynoize.net/fintech-revolution-2025-panduan-uang-digital-cerdas/](https://hendynoize.net/keamanan-digital-2025-privacy-tools-untuk-pengguna-modern/))**
+### **[Keamanan Digital 2025 Untuk Pengguna Modern](https://hendynoize.net/keamanan-digital-2025-privacy-tools-untuk-pengguna-modern/)**
 > Keamanan digital makin penting di 2025. Pelajari cara lindungi data dari VPN hingga deepfake, khusus untuk Millennials & Gen Z.
 
 ---
