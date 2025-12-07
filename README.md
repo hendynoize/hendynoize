@@ -25,6 +25,14 @@ Semoga ada sesuatu di sini yang bisa menginspirasi atau bermanfaat dalam perjala
 Salam  
 **Hendy Black**
 
+## 🗂️ Repo
+
+
+### **[🔥 Cloudflare Workers Load Balancing & Failover](https://github.com/hendynoize/Cloudflare-Workers-Load-Balancing-Failover)**
+> Untuk menghindari limit Workers free 100.000 hits/hari dengan load balancing beberapa Workers menggunakan teknik failover
+
+---
+
 ## 📝 Blog Posts
 
 
