@@ -25,7 +25,7 @@ Semoga ada sesuatu di sini yang bisa menginspirasi atau bermanfaat dalam perjala
 Salam  
 **Hendy Black**
 
-## 🗂️ Repo
+# 🗂️ Repo
 
 
 ### **[🔥 Cloudflare Workers Load Balancing & Failover](https://github.com/hendynoize/Cloudflare-Workers-Load-Balancing-Failover)**
@@ -33,7 +33,7 @@ Salam
 
 ---
 
-## 📝 Blog Posts
+# 📚 Blog Posts
 
 
 ### **[Panduan Tools AI Millennial & Gen Z](https://hendynoize.net/panduan-tools-ai-millennial-gen-z-hidup-digital-produktif/)**
