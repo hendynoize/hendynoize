@@ -10,7 +10,7 @@ Salam
 
 ---
 ### **[✅ Gemini API Key Bulk Checker](https://github.com/hendynoize/Video-Uniquifer)**
-> Membuat video menjadi unik, berbeda & original tanpa merusak kualitas.
+> Script ini dapat membaca API key dari file .txt (satu key per baris), lalu menampilkan hasil valid / tidak valid.
 
 ---
 
