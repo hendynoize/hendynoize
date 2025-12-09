@@ -5,7 +5,11 @@ Salam
 **Hendy Black**
 
 # 🗂️ Repo
-### **[🎬 Video Uniquifier](https://github.com/hendynoize/Video-Uniquifer)**
+### **[🎬 Video Uniquifier](https://github.com/hendynoize/Gemini-API-Key-Bulk-Checker)**
+> Membuat video menjadi unik, berbeda & original tanpa merusak kualitas.
+
+---
+### **[✅ Gemini API Key Bulk Checker](https://github.com/hendynoize/Video-Uniquifer)**
 > Membuat video menjadi unik, berbeda & original tanpa merusak kualitas.
 
 ---
