@@ -26,7 +26,10 @@ Salam
 **Hendy Black**
 
 # 🗂️ Repo
+### **[🎬 Video Uniquifier](https://github.com/hendynoize/Video-Uniquifer)**
+> Membuat video menjadi unik, berbeda & original tanpa merusak kualitas.
 
+---
 
 ### **[🔥 Cloudflare Workers Load Balancing & Failover](https://github.com/hendynoize/Cloudflare-Workers-Load-Balancing-Failover)**
 > Untuk menghindari limit Workers free 100.000 hits/hari dengan load balancing beberapa Workers menggunakan teknik failover
