@@ -14,6 +14,16 @@ Salam
 > Untuk menghindari limit Workers free 100.000 hits/hari dengan load balancing beberapa Workers menggunakan teknik failover
 
 ---
+# 🏪 Shop
+### **[🤖 Akun Google AI Pro Full Bukan Trial](https://lynk.id/anggidigishop/y0pwezdq2y5y)**
+> Akun Google AI Pro, akun dibikin manual dan bukan promo student yang pake trik email.edu karena sudah lama ga bisa
+
+---
+
+### **[🔥Prompt Premium YouTube Title & Description Generator - Auto SEO](https://lynk.id/anggidigishop/zzgggoy6ok2e)**
+> Dapatkan PROMPT PREMIUM yang mampu membuat deskripsi super profesional dalam sekali generate!
+
+---
 
 # 📚 Blog Posts
 
