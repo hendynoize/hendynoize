@@ -13,7 +13,7 @@ Salam
 > Script ini dapat membaca API key dari file .txt (satu key per baris), lalu menampilkan hasil valid / tidak valid.
 
 ---
-### **[✅ Bulk Gemini API Key Checker HTML GUI](https://github.com/hendynoize/Gemini-API-Key-Checker)**
+### **[⚛️ Bulk Gemini API Key Checker HTML GUI](https://github.com/hendynoize/Gemini-API-Key-Checker)**
 > HTML GUI untuk memeriksa validitas banyak API key Gemini dengan cepat. Antarmuka sederhana, hasil langsung terlihat
 
 
