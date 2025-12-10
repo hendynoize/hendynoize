@@ -9,8 +9,14 @@ Salam
 > Membuat video menjadi unik, berbeda & original tanpa merusak kualitas.
 
 ---
-### **[✅ Gemini API Key Bulk Checker](https://github.com/hendynoize/Gemini-API-Key-Bulk-Checker)**
+### **[✅ Bash Gemini API Key Bulk Checker](https://github.com/hendynoize/Gemini-API-Key-Bulk-Checker)**
 > Script ini dapat membaca API key dari file .txt (satu key per baris), lalu menampilkan hasil valid / tidak valid.
+
+---
+### **[✅ Bulk Gemini API Key Checker HTML GUI](https://github.com/hendynoize/Gemini-API-Key-Checker)**
+> HTML GUI untuk memeriksa validitas banyak API key Gemini dengan cepat. Antarmuka sederhana, hasil langsung terlihat
+
+
 
 ---
 
