@@ -7,7 +7,7 @@
   <a href="https://github.com/hendynoize#-watch-my-video">🎬 Video</a>
   </p>
 
-## Hi! Saya Hendy. 
+## Preambule 
 Halo, saya **Hendy Black**, saya praktisi dunia digital sejak era warnet masih jadi tempat nongkrong favorit. 
 
 Salam  
