@@ -1,4 +1,4 @@
- # Official Github Hendynoize 
+ # Hell-o, welcome to my Guthib 👋🏻
 ---
 <p align="center">
   <a href="https://github.com/hendynoize#-repo">🗂️ Repo</a> |
@@ -7,7 +7,7 @@
   <a href="https://github.com/hendynoize#-watch-my-video">🎬 Video</a>
   </p>
 
-## Hi! Saya Hendy. 👋🏻
+## Hi! Saya Hendy. 
 Halo, saya **Hendy Black**, saya praktisi dunia digital sejak era warnet masih jadi tempat nongkrong favorit. 
 
 Salam  
