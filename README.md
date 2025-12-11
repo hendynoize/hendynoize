@@ -16,6 +16,8 @@ Salam
 ### **[⚛️ Bulk Gemini API Key Checker HTML GUI](https://github.com/hendynoize/Gemini-API-Key-Checker)**
 > HTML GUI untuk memeriksa validitas banyak API key Gemini dengan cepat. Antarmuka sederhana, hasil langsung terlihat
 
+---
+
 ### **[🚀 Cloudflare Workers CORS Proxy with HTML Rewrite](https://github.com/hendynoize/Cloudflare-Workers-CORS-Proxy-with-HTML-Rewrite)**
 > ✔ Solusi untuk membuka website yang diblokir ISP, pemerintah atau jaringan ✔ Mem-bypass CORS, etc
 
