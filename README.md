@@ -1,14 +1,11 @@
-# ✨ Hendy Black — Dark Mode Glassmorphism Edition
 
 ---
 
 <div align="center" style="padding:20px; backdrop-filter: blur(18px); background: #000000; border-radius:20px; border:1px solid rgba(255,255,255,0.15); box-shadow:0 8px 32px rgba(0,0,0,0.45);">
 
-## 👋 Selamat datang di **Guthib** versi Dark Glass
+## 👋 Hell-o, selamat datang di **Guthib** saya
 
-Navigasi cepat & stylish ala glassmorphism.
 
-### 🌐 Navigasi
 
 **[🗂️ Repo](#️-repo)** • **[🏪 Shop](#-shop)** • **[📚 Blog Posts](#-blog-posts)** • **[🎬 Video](#-watch-my-video)**
 
