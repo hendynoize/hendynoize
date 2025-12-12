@@ -113,5 +113,5 @@ Salam,
 ---
 
 <div align="center" style="opacity:0.7; margin-top:20px;">
-Made with ❤️ in full dark glass mode.
+Made with ❤️ by Hendy Black
 </div>
