@@ -26,33 +26,42 @@ Salam,
 
 <div style="backdrop-filter: blur(15px); background: rgba(255,255,255,0.05); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); box-shadow:0 4px 24px rgba(0,0,0,0.35);">
 
-### 🎬 **Video Uniquifier**
+### [**Adsterra Monetag Smartlink Script**](https://github.com/hendynoize/Adsterra-Monetag-Smartlink-Script)
+> JavaScript ringan yang memungkinkan pembukaan URL hanya setelah user berada di halaman dalam durasi tertentu
+
+### [**Google Indexing API GUI**](https://github.com/hendynoize/Google-Indexing-API)
+>Tool otomatis untuk mengindex URL blog ke Google menggunakan Google Indexing API dengan GitHub Actions
+
+
+### [**Cloudflare Workers JavaScript Protector**](https://github.com/hendynoize/Cloudflare-Workers-JavaScript-Protector)
+> Proxy JavaScript berbasis Cloudflare Workers untuk mengambil file .js dari sumber eksternal dan menampilkannya kembali hanya ke domain yang diizinkan (whitelist).
+
+
+### [🎬 **Video Uniquifier**](https://github.com/hendynoize/Gemini-API-Key-Bulk-Checker)
 
 > Membuat video menjadi unik, berbeda & original tanpa merusak kualitas.
-> 🔗 [https://github.com/hendynoize/Gemini-API-Key-Bulk-Checker](https://github.com/hendynoize/Gemini-API-Key-Bulk-Checker)
-
 ---
 
-### ✅ **Bash Gemini API Key Bulk Checker**
+### [✅ **Bash Gemini API Key Bulk Checker**](https://github.com/hendynoize/Gemini-API-Key-Bulk-Checker)
 
 > Membaca API key dari file .txt lalu menampilkan status valid / tidak valid.
-> 🔗 [https://github.com/hendynoize/Gemini-API-Key-Bulk-Checker](https://github.com/hendynoize/Gemini-API-Key-Bulk-Checker)
 
 ---
 
-### ⚛️ **Bulk Gemini API Key Checker HTML GUI**
+### [⚛️ **Bulk Gemini API Key Checker HTML GUI**](https://github.com/hendynoize/Gemini-API-Key-Checker)
 
-> GUI untuk cek banyak API key Gemini sekaligus.
+> HTML GUI untuk memeriksa validitas banyak API key Gemini dengan cepat. Antarmuka sederhana, hasil langsung terlihat
+
 
 ---
 
-### 🚀 **Cloudflare Workers CORS Proxy + HTML Rewrite**
+### [🚀 **Cloudflare Workers CORS Proxy + HTML Rewrite**](https://github.com/hendynoize/Cloudflare-Workers-CORS-Proxy-with-HTML-Rewrite)
 
 > Solusi buka website terblokir & bypass CORS.
 
 ---
 
-### 🔥 **Workers Load Balancing & Failover**
+### [🔥 **Workers Load Balancing & Failover**](https://github.com/hendynoize/Cloudflare-Workers-Load-Balancing-Failover)
 
 > Menghindari limit 100k hits/hari dengan sistem multi-Workers.
 
