@@ -28,14 +28,15 @@ Salam,
 
 ### [**Adsterra Monetag Smartlink Script**](https://github.com/hendynoize/Adsterra-Monetag-Smartlink-Script)
 > JavaScript ringan yang memungkinkan pembukaan URL hanya setelah user berada di halaman dalam durasi tertentu
+---
 
 ### [**Google Indexing API GUI**](https://github.com/hendynoize/Google-Indexing-API)
 >Tool otomatis untuk mengindex URL blog ke Google menggunakan Google Indexing API dengan GitHub Actions
-
+---
 
 ### [**Cloudflare Workers JavaScript Protector**](https://github.com/hendynoize/Cloudflare-Workers-JavaScript-Protector)
 > Proxy JavaScript berbasis Cloudflare Workers untuk mengambil file .js dari sumber eksternal dan menampilkannya kembali hanya ke domain yang diizinkan (whitelist).
-
+---
 
 ### [🎬 **Video Uniquifier**](https://github.com/hendynoize/Gemini-API-Key-Bulk-Checker)
 
