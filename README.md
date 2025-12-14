@@ -74,13 +74,19 @@ Salam,
 
 <div style="backdrop-filter: blur(15px); background: rgba(255,255,255,0.05); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); box-shadow:0 4px 24px rgba(0,0,0,0.35);">
 
-### 🤖 **Akun Google AI Pro Full (Bukan Trial)**
+### [**Template Blogger Premium 'Flat Fast SEO', Skor PageSpeed Insight 100 (mobile & Desktop)**](https://lynk.id/anggidigishop/qxndx846mny5)
+> Design minimalis mengutamakan UX dan kenyamanan membaca
+
+### [**5 Gemini API Key Fresh**](https://lynk.id/anggidigishop/op2d26o7e582)
+> API key dibuat dadakan saat ada order masuk, di cek validitasnya, baru kirim ke buyer.
+
+### [🤖 **Akun Google AI Pro Full (Bukan Trial)**](https://lynk.id/anggidigishop/y0pwezdq2y5y)
 
 > Akun premium bukan promo student.
 
 ---
 
-### 🔥 **Prompt Premium YouTube SEO**
+### [🔥 **Prompt Premium YouTube SEO**](https://lynk.id/anggidigishop/zzgggoy6ok2e)
 
 > Generator judul & deskripsi profesional.
 
