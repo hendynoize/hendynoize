@@ -26,6 +26,10 @@ Salam,
 
 <div style="backdrop-filter: blur(15px); background: rgba(255,255,255,0.05); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); box-shadow:0 4px 24px rgba(0,0,0,0.35);">
 
+### [**🔥 Anti DevTools Advanced: SILENT • BRUTAL • SEO-SAFE**](https://github.com/hendynoize/Anti-DevTools-Advanced-Mode/)
+> Hanya menghukum saat DevTools benar-benar aktif 👉 Crawler & user normal tidak ken
+---
+  
 ### [**Adsterra Monetag Smartlink Script**](https://github.com/hendynoize/Adsterra-Monetag-Smartlink-Script)
 > JavaScript ringan yang memungkinkan pembukaan URL hanya setelah user berada di halaman dalam durasi tertentu
 ---
