@@ -7,7 +7,7 @@
 
 
 
-**[🗂️ Repo](#️-repo)** • **[🏪 Shop](#-shop)** • **[📚 Blog Posts](#-blog-posts)** • **[🎬 Video](#-watch-my-video)**
+**[🗂️ Repo](#️-repo)** • **[🏪 Shop](#-shop)** • **[📚 Blog Posts](#-blog-posts)** • **[🛠️ Project](#project)** •**[🎬 Video](#-watch-my-video)**
 
 </div>
 
@@ -120,6 +120,14 @@ Salam,
 
 </div>
 
+---
+
+# 🛠️ Project
+
+<div style="backdrop-filter: blur(15px); background: rgba(255,255,255,0.05); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); box-shadow:0 4px 24px rgba(0,0,0,0.35);">
+
+### [🎵 **iLoveSong.ai MP3 Downloader**](https://ilovesongai.pages.dev/)
+> Download MP3 hasil generate dari iLoveSong.ai
 ---
 
 # 🎬 Watch My Video
