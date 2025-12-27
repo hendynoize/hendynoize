@@ -7,7 +7,7 @@
 
 
 
-**[🗂️ Repo](#️-repo)** • **[🏪 Shop](#-shop)** • **[📚 Blog Posts](#-blog-posts)** • **[🛠️ Project](#project)** •**[🎬 Video](#-watch-my-video)**
+**[🗂️ Repo](#️-repo)** • **[🏪 Shop](#-shop)** • **[📚 Blog Posts](#-blog-posts)** • **[🛠️ Project](#-project)** •**[🎬 Video](#-watch-my-video)**
 
 </div>
 
