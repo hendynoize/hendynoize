@@ -26,6 +26,10 @@ Salam,
 
 <div style="backdrop-filter: blur(15px); background: rgba(255,255,255,0.05); padding:20px; border-radius:18px; border:1px solid rgba(255,255,255,0.12); box-shadow:0 4px 24px rgba(0,0,0,0.35);">
 
+### [**✅ Script Anti Bom Klik Adsense New**](https://github.com/hendynoize/Anti-Bom-Klik-Adsense-New)
+> Script ini mendeteksi klik berulang terlalu cepat, membatasi jumlah klik per sesi, mengunci halaman sementara jika mencurigakan, berlaku ke semua klik, termasuk iklan (tanpa menyentuh elemen iklan)
+---
+  
 ### [**🔥 Anti DevTools Advanced: SILENT • BRUTAL • SEO-SAFE**](https://github.com/hendynoize/Anti-DevTools-Advanced-Mode/)
 > Hanya menghukum saat DevTools benar-benar aktif 👉 Crawler & user normal tidak ken
 ---
